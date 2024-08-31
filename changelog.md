@@ -11,4 +11,4 @@
 - `docker build -t sample-api .` to build the Docker Image
 - `docker run -p 80:80 sample-api` to run the Docker Container
 
-### Once you run the Docker Container, you can access the webpage on http://0.0.0.0:80
+### Once you run the Docker Container, you can access the API on http://0.0.0.0:80
